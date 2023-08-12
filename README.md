@@ -48,6 +48,7 @@ Test the application locally to ensure that the front-end, Lambda functions, and
 Debug and fix any issues you encounter during testing.
 
 Step 10: Deploy Your Application
+
 Amplify will automatically build and deploy your application based on the configuration you set.
 
 <img width="419" alt="Services that are used" src="https://github.com/Meldindavidsabu/AWSEndToEndCalculationapplication./assets/80899101/b5ac44f3-6473-4378-95c0-f0e1c80f726e">
